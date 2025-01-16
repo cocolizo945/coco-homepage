@@ -33,7 +33,7 @@ const Logo = () => {
           fontWeight="bold"
           ml={3}
         >
-          Takuya Matsuyama
+          Eduardo Mendez Miranda
         </Text>
       </LogoBox>
 
